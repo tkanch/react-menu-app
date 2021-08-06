@@ -64,7 +64,7 @@ const Menu =[
     },
     {
         id:8,
-        name:'stuffed peppers rice & beans',
+        name:'stuffed peppers rice',
         image:'images/stuffed_pepper_with_beans.jpg',
         category:'Dinner',
         price: 36,
